@@ -1,5 +1,5 @@
 # k-SystemDesign
-How to design different systems.
+Given the situation, try to design a system to provide certain service.
 
 ## contents
 [log]()
@@ -7,3 +7,5 @@ How to design different systems.
 [info push]()
 
 [sec-killing]()
+
+[delayed task]()
