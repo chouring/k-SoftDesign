@@ -1,5 +1,5 @@
-# k-SystemDesign
-Given the situation, try to design a system to provide certain service.
+# k-SoftDesign
+Given the situation, try to design a software compoent or whole system to provide certain service.
 
 ## contents
 [lock]()
